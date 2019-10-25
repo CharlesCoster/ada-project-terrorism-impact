@@ -4,7 +4,9 @@
 A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 
 # Research questions
-A list of research questions you would like to address during the project. 
+- Rise of ultra-left or ultra-right political party
+- Impact on life habits of european citizen (leisure, going out habits, impact on consumption ...)
+- Sentiment of religious belief and religious habits
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
