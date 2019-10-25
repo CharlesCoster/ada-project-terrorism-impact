@@ -9,7 +9,8 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - Sentiment of religious belief and religious habits
 
 # Dataset -> Hugo & Alex
-- http://www.cpds-data.org/index.php/data
+- Comparative Political Data Set (http://www.cpds-data.org/index.php/data). Main data set with annual political and institutional data for 36 european countries (1960-2017), all the documentation about this dataset is given in a Codebook (http://www.cpds-data.org/images/Update2019/Codebook-Government-Composition-1960-2017.pdf). 
+- Web scrapping on https://europeelects.eu/ep2019/. https://europeelects.eu/data/
 - https://www.kaggle.com/START-UMD/gtd
 - https://www.kaggle.com/umichigan/world-religions#national.csv
 - 
