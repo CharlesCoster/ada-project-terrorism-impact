@@ -13,7 +13,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - Web scrapping on https://europeelects.eu/ep2019/. https://europeelects.eu/data/
 - https://www.kaggle.com/START-UMD/gtd
 - https://www.kaggle.com/umichigan/world-religions#national.csv
-- 
+- Informations on religious affiliations on Europe (https://www.smre-data.ch/en/)
 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
