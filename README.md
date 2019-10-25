@@ -11,6 +11,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 # Dataset -> Hugo & Alex
 - http://www.cpds-data.org/index.php/data
 - https://www.kaggle.com/START-UMD/gtd
+- https://www.kaggle.com/umichigan/world-religions#national.csv
 - 
 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
