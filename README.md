@@ -20,8 +20,23 @@ In order to conduct our investigation, we will use datas from many sources. Here
 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
-# A list of internal milestones up until project milestone 2 -> Anto
-Add here a sketch of your planning for the next project milestone.
+# A list of internal milestones up until project milestone 2 
+## 1. Handle the raw data & general data analysis (to be done before nov. 12th)
+ - [x] Check how we get data on our computer and how we can handle the large volume of data.
+ - [x] Learn how the dataset is encoded, how specific the geomarkers are, and if sentiment stamps are useful to our question.
+ - [x] Look at the overall distribution of the tweets' languages, and check for issues with non-standardization of Swiss German. -> also look at regional distribution.
+ - [x] Look at how frequent the use of emojis is, what methods to use to handle them.
+ - [x] Look into handling time dimension of data, look at distribution of tweets over time.
+ - [x] See to what extent Swiss News outlets talk about mental health.
+ - [x] Find potential issues with data, are there any NaN values, how can we deal with bots and spam etc. (*Read papers that might give us interesting insights)
+## 2. See how we can transform the data (to be done before nov. 18th)
+ - [] Look more closely into what NLP techniques work best on our data and begin to form our dictionary.
+ - [] Filter the tweets down to a dataset that interests us, check if size of dataset is reasonable.
+ - [] Check how we can look at the tweets in a temporal manner, what statistical tools we should use to be able to draw conclusions.
+ - [] Look into ways we can visualize our data.
+## 3. Work on notebook and future plans (until deadline nov. 28th)
+ - [x] Work on properly commented notebook that can be read by people outside the team.
+ - [x] Have a nice visualisations and first results in notebook.
 
 # Questions for TA -> tout le monde
 Add here some questions you have for us, in general or project-specific.
