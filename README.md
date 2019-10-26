@@ -13,6 +13,7 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - [Europe Political Affiliation](https://europeelects.eu/data/) according to different survey. Using web scrapping, we could get a lot of data.
 - [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd) : More than 180,000 terrorist attacks worldwide from 1970 to 2017
 - [Europe Religous Affiliation](https://www.smre-data.ch/en/data_exploring/region_cockpit#/mode/dataset_comparison/region/FRA/period/2010/presentation/table) from 2006 to 2015 per country and according to various survey. Information will be collected with web scrapping.
+- [European Economical Growth](https://tradingeconomics.com/api/?source=summary) : provides an API available on [Github](https://github.com/tradingeconomics/tradingeconomics). We can get information about economical growth in Europe from 1996 to 2019.
 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
