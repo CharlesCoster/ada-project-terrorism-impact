@@ -30,10 +30,10 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
  - [x] See to what extent Swiss News outlets talk about mental health.
  - [x] Find potential issues with data, are there any NaN values, how can we deal with bots and spam etc. (*Read papers that might give us interesting insights)
 ## 2. See how we can transform the data (to be done before nov. 18th)
- - [] Look more closely into what NLP techniques work best on our data and begin to form our dictionary.
- - [] Filter the tweets down to a dataset that interests us, check if size of dataset is reasonable.
- - [] Check how we can look at the tweets in a temporal manner, what statistical tools we should use to be able to draw conclusions.
- - [] Look into ways we can visualize our data.
+ - [ ] Look more closely into what NLP techniques work best on our data and begin to form our dictionary.
+ - [ ] Filter the tweets down to a dataset that interests us, check if size of dataset is reasonable.
+ - [ ] Check how we can look at the tweets in a temporal manner, what statistical tools we should use to be able to draw conclusions.
+ - [ ] Look into ways we can visualize our data.
 ## 3. Work on notebook and future plans (until deadline nov. 28th)
  - [x] Work on properly commented notebook that can be read by people outside the team.
  - [x] Have a nice visualisations and first results in notebook.
