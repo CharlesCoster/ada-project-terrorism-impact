@@ -36,4 +36,4 @@ In order to conduct our investigation, we will use datas from many sources. Here
  - [ ] Set up the internal milestones for MS3.
 
 ## Questions for TA -> tout le monde
-Add here some questions you have for us, in general or project-specific.
+Is the project too ambitious ? Do we have too many sources ?
