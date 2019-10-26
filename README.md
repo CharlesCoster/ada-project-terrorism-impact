@@ -9,11 +9,11 @@ A 150 word description of the project idea, goals, dataset used. What story you 
 - Sentiment of religious belief and religious habits
 
 # Dataset -> Hugo & Alex
-- Comparative Political Data Set (http://www.cpds-data.org/index.php/data). Main data set with annual political and institutional data for 36 european countries (1960-2017), all the documentation about this dataset is given in a Codebook (http://www.cpds-data.org/images/Update2019/Codebook-Government-Composition-1960-2017.pdf). 
+- [Comparative Political Data Set](http://www.cpds-data.org/index.php/data). Main data set with annual political and institutional data for 36 european countries (1960-2017), all the documentation about this dataset is given in a Codebook (http://www.cpds-data.org/images/Update2019/Codebook-Government-Composition-1960-2017.pdf). 
 - Web scrapping on https://europeelects.eu/ep2019/. https://europeelects.eu/data/
-- https://www.kaggle.com/START-UMD/gtd
+- Information about terrorism attacks are provided by a csv file (https://www.kaggle.com/START-UMD/gtd)
 - https://www.kaggle.com/umichigan/world-religions#national.csv
-- Informations on religious affiliations on Europe (https://www.smre-data.ch/en/)
+- Informations on religious affiliations on Europe (https://www.smre-data.ch/en/). We will use web scrapping on https://www.smre-data.ch/en/data_exploring/region_cockpit#/mode/dataset_comparison/region/$COUNTRY$/period/2010/presentation/table. These pages provide detailed tables about religious affiliation from 2006 to 2015 according to various survey.
 
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
