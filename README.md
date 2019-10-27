@@ -20,7 +20,7 @@ In order to conduct our investigation, we will use datas from many sources. Here
 
 # A list of internal milestones up until project milestone 2 
 ## 1. Handle the raw data & general data analysis (to be done before nov. 11th)
- - [ ] Check how we get data on our computer and how we can handle the variety of sources.
+ - [x] Check how we get data on our computer and how we can handle the variety of sources.
  - [ ] Get information on what has been done on the subject
  - [ ] Scrapping of the targeted websites to complete our datasets.
  - [ ] Explore individually the 4 sources (distributions, visual apparence, ...) and look for inconsistencies.
