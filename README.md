@@ -36,5 +36,7 @@ In order to conduct our investigation, we will use datas from many sources. Here
  - [ ] From our results start thinking on how we can present this datastory.
  - [ ] Set up the internal milestones for MS3.
 
-## Questions for TA -> tout le monde
-Is the project too ambitious ? Do we have too many sources ?
+## Questions for TA 
+- Is the project too ambitious ? Should we focus on one/two sources or is this ok ?
+- In terms of visualization and analysis, which aspect is the most important one?
+- Is it possible to get tweets from a certain period and location ?
