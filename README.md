@@ -1,7 +1,8 @@
 # Impact of terrorism on european citizen
 
 ## Abstract -> Charles
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
+For the past hundred years terrorism as been part of the life of the European Citizen. At different time period, some parts of the continent have been impacted by a lot of terrorist attacks due to conflictual situations (Western Europe in the last decades, Ireland and the UK between the 70's and the 90's, Spain in the beggining of the 2000's, ...). Those terrorists attack can have different goal (religious, politics, ideological,...) but they impact the life of the citizen of the country, city that they target. We want to study and understand what is the impact of terrorism on the European citizen through different prism: Politics, Economics, Religious and life habits (leisure time, consumption, ...).  We aere then looking for terrorist attacks data, political and religious data in Europe as well as economical and daily habits of European citizen accross the last decades. Not only do we want to tell the story of the European continents through the last couples of decades but we also want to understand its complicated link to terrorism that we think will work both ways.
+
 
 ## Research questions
 With importance of terrorism nowadays, many questions arise on different aspect of the citizen life. 
