@@ -12,10 +12,10 @@ With importance of terrorism nowadays, many questions arise on different aspect 
 
 ## Structure of our Notebook
 
-1       Eras of terrorism
-2       History through terrorism
-3       Evaluate the impact of a terror attack
-4       Correlations with societies
+-       Eras of terrorism
+-       History through terrorism
+-       Evaluate the impact of a terror attack
+-       Correlations with societies
 
 ## Dataset
 In order to conduct our investigation, we will use datas from many sources. Here we draw-up a non exhaustive list of dataset we will use :
@@ -28,6 +28,6 @@ In order to conduct our investigation, we will use datas from many sources. Here
 
 
 # A list of internal milestones up until project milestone 3 
-## 4. Plan the structure of the data story and finalize our Notebook(until deadline dec. 2th)
+## 1. Plan the structure of the data story and finalize our Notebook(until deadline dec. 2th)
 
-## 5. Finalize our datastory(until deadline dec.20th)
+## 1. Finalize our datastory(until deadline dec.20th)
