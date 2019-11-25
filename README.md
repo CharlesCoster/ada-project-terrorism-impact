@@ -12,10 +12,10 @@ With importance of terrorism nowadays, many questions arise on different aspect 
 
 ## Structure of our Notebook
 
--       Eras of terrorism
--       History through terrorism
--       Evaluate the impact of a terror attack
--       Correlations with societies
+-**Eras of terrorism**
+-**History through terrorism**
+-**Evaluate the impact of a terror attack**
+-**Correlations with societies**
 
 ## Dataset
 In order to conduct our investigation, we will use datas from many sources. Here we draw-up a non exhaustive list of dataset we will use :
