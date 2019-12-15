@@ -1,0 +1,25 @@
+148 	Al-Nusrah Front 	2017	Merged to become another group
+149 	Al-Qaida 	2011	Death of Oussama ben laden 
+153 	Al-Qaida in Iraq 	2013	became ISIS
+446 	Armed Islamic Group (GIA) 	2006 merged with Al Qaida
+588 	Basque Fatherland and Freedom (ETA) 	2011 political negociation & repression led to ceasefire
+745 	Chechen Rebels 	2016	Armed repression by Russia
+946 	Death Squad 	2001	N/A	
+1004 	Donetsk People's Republic 	2017 	Became a country
+1083 	Farabundo Marti National Liberation Front (FMLN) 	1994	Became a politically represented party
+1351 	Hutu extremists 	2016	Armed repression and killing
+1433 	Irish Republican Army (IRA) 	2011	Reconaissance politique
+1481 	Islamic State of Iraq (ISI) 	2011	became ISIL
+1489 	Islamist extremists 	2011	Not a group
+1795 	Liberation Tigers of Tamil Eelam (LTTE) 	2010	vaincu au combat
+1828 	M-19 (Movement of April 19) 	1997	reconnaissance politique 
+2015 	Mozambique National Resistance Movement (MNR) 	2017	reconnaissance politique (deviennent un parti)
+2046 	Muslim Militants 	2009	Not a group
+2091 	National Democratic Front of Bodoland (NDFB) 	2017 Not dissolved
+2152 	National Union for the Total Independence of A... 	2017	reconnaissance politique
+2191 	Nicaraguan Democratic Force (FDN) 	1987	merged
+2365 	People's Liberation Front (JVP) 	1990	reconnaissance politique
+2624 	Revolutionary Armed Forces of Colombia (FARC) 	2016 peace deal and reconnaissance politique
+2857 	Sikh Extremists 	2017 	armed state repression
+3045 	Tamils 	2001 Not a group
+3052 	Tawhid and Jihad 	2004 	merged Al Qaida
