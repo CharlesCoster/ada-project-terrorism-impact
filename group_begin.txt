@@ -1,0 +1,56 @@
+44 	Abu Sayyaf Group (ASG) 	1994					Jihad
+148 	Al-Nusrah Front 	2012					Jihad/politique
+149 	Al-Qaida 	1992						Jihad & Lutte contre impérialisme occidental
+153 	Al-Qaida in Iraq 	2003					Jihad/merged
+157 	Al-Qaida in the Arabian Peninsula (AQAP) 	2004		merged
+159 	Al-Qaida in the Islamic Maghreb (AQIM) 	2007			merged
+164 	Al-Shabaab 	2007						Invasion Etiopienne/Jihad
+213 	Allied Democratic Forces (ADF) 	1997				Opposition au régime   
+301 	Anti-Balaka Militia 	2013					Protect from insecurity
+446 	Armed Islamic Group (GIA) 	1994				Opposition régime/Election Annulé/Jihad
+588 	Basque Fatherland and Freedom (ETA) 	1970			Revenge for tentative d arret du groupe
+671 	Boko Haram 	2009						Jihad/Charia
+745 	Chechen Rebels 	1992						Treaty w/ chechen/Independance
+854 	Communist Party of India - Maoist (CPI-Maoist) 	2005		Opposition to regime/Putch/Election
+946 	Death Squad 	1978						Not a group
+1004 	Donetsk People's Republic 	2014				Referendum Independance
+1083 	Farabundo Marti National Liberation Front (FMLN) 	1978	Repression Guérilla Marxiste -> merged
+1197 	Fulani extremists 	2010					Want ethnic cleansing
+1294 	Hamas (Islamic Resistance Movement) 	1989			Pro-Palestine
+1318 	Hezbollah 	1983						Invasion Liban par Israel -> Jihad Politique
+1343 	Houthi extremists (Ansar Allah) 	2006			Unification Politique yemen
+1351 	Hutu extremists 	1994					Death of president (Hutu) assassination			
+1433 	Irish Republican Army (IRA) 	1970				Opposition politique/défense contre attaque
+1481 	Islamic State of Iraq (ISI) 	2007				jihad/merge	
+1482 	Islamic State of Iraq and the Levant (ISIL) 	2013		merge/jihad
+1489 	Islamist extremists 	1987					not a group				
+1679 	Khorasan Chapter of the Islamic State 	2014			Jihad
+1734 	Kurdistan Workers' Party (PKK) 	1987				Manifestation/interdiction parti
+1747 	Lashkar-e-Jhangvi 	1996					Division religieuse Pakistant
+1749 	Lashkar-e-Taiba (LeT) 	1996					Election pakistan/opposition regime
+1795 	Liberation Tigers of Tamil Eelam (LTTE) 	1975		Discrimiation/massacre/election
+1818 	Lord's Resistance Army (LRA) 	1994				Another country helps/guerre civile
+1828 	M-19 (Movement of April 19) 	1976				Election fraudulesuse
+1884 	Maoists 	1979						Putch
+1979 	Moro Islamic Liberation Front (MILF) 	1986			Opposition politique/scission groupe
+2015 	Mozambique National Resistance Movement (MNR) 	1979		Alliance politique contre marxisme
+2046 	Muslim Militants 	1983					Not a group
+2053 	Muslim extremists 	1980					Not a group
+2091 	National Democratic Front of Bodoland (NDFB) 	1992		Emeutes
+2113 	National Liberation Army of Colombia (ELN) 	1972		Guerilla 
+2152 	National Union for the Total Independence of A... 	1978	Independance war/deliberation
+2181 	New People's Army (NPA) 	1976				Revelation trahision gouvernement 
+2191 	Nicaraguan Democratic Force (FDN) 	1983			Opposing to putchist gouvernement 
+2365 	People's Liberation Front (JVP) 	1987			Apres revolution socialiste
+2624 	Revolutionary Armed Forces of Colombia (FARC) 	1975		AutoDéfense après réforme agraire
+2810 	Separatists 	1980						Réferendum
+2845 	Shining Path (SL) 	1978					Scission parti communiste
+2857 	Sikh Extremists 	1981					Unemployement/Reforme 
+2859 	Sinai Province of the Islamic State 	2014			Jihad
+2964 	Sudan People's Liberation Movement in Oppositi... 	2014	Gouvernment abandonned treaty
+3039 	Taliban 	1995						guerre civile		
+3045 	Tamils 	1982							Riots
+3052 	Tawhid and Jihad 	2002					Jihad
+3065 	Tehrik-i-Taliban Pakistan (TTP) 	2007			Gouvernement Rompu accord de paix
+3160 	Tribesmen 	1998						Not a group
+3279 	United Liberation Front of Assam (ULFA) 	1988		Assasinat figure politique
