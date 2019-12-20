@@ -48,7 +48,7 @@ Datas about Happiness come from the **World Happiness Report**, a landmark surve
 Finaly we used the Fragile States Index (FSI) produced by The **Fund for Peace (FFP)**, which is a critical tool in highlighting not only the normal pressures that all states experience, but also in identifying when those pressures are outweighing a states’ capacity to manage those pressures.
 
 ## Our data story
-You can access the webpage of our final data story and lies through this link. We hope you'll enjoy reading it!
+You can access the webpage of our final data story and lies through this [link](https://charlescoster.github.io/ada-project-terrorism-impact/). We hope you'll enjoy reading it!
 
 ## Team members and contributions:
 We all worked on most tasks, except those specifically noted below. We worked separately, then we had weekly team meetings.
