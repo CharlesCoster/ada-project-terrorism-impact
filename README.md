@@ -10,30 +10,30 @@ Through this work, we hope to :
 1. Determine which are the main terrorist groups of the past four decades.
 2. What methods are used by these terrorist groups?
 3. What is the impact of terrorism on the targeted countries?
-        - On the tourism
-        - On the happiness and fragility index
+    - On the tourism
+    - On the happiness and fragility index
 4. What are the ideologies and motives of the terrorist groups across time?
 5. Is there different ages of terrorism?
 6. In which political context are the attacks performed?
-        - Can we guess the political context with only information about terrorism (wordcloud)
+    - Can we guess the political context with only information about terrorism (wordcloud)
 7. Can we use past data to predict an upcoming attack?
 
 ## Structure of our Notebook
 
 - **Introduction**
-        - Motivations 
-        - Datasets
-        - Infography
+    - Motivations 
+    - Datasets
+    - Infography
 - **Overall analysis**
-        - Effect on tourism
-        - Happiness index and Fragility state index in world map
+    - Effect on tourism
+    - Happiness index and Fragility state index in world map
 - **Terrorist group**
-        - Graph of groups
-        - Evolutions of groups
-        - Focus on Global North Countries
+    - Graph of groups
+    - Evolutions of groups
+    - Focus on Global North Countries
 - **Learning From the Past**
-        - Graph that links the terrorist groups and the targeted countries
-        - Predictive model
+    - Graph that links the terrorist groups and the targeted countries
+    - Predictive model
 - **Mini Quiz : Word Cloud**
         - Importance of context
 
