@@ -21,9 +21,10 @@ Through this work, we hope to :
 ## Structure of our Notebook
 
 - **Introduction**
+        - Motivations 
         - Datasets
-        - Infographie
-- **Motivations**
+        - Infography
+- **Overall analysis**
         - Effect on tourism
         - Happiness index and Fragility state index in world map
 - **Terrorist group**
