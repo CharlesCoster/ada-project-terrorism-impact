@@ -39,8 +39,11 @@ Through this work, we hope to :
 ## Dataset
 In this project, we used data from many sources. 
 The main part of our analysis is done with the **Global Terrorism Database (GTD)** which is a database of incidents of terrorism from 1970 onward. As of July 2017, the list extended through 2016, with an incomplete data of 1993 due to issues with that year. The database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland, College Park in the United States. 
+
 We also had a look on terrorists groups using the **Extended Data on Terrorist Groups (EDTG)**, an extended data set of 760 terrorist groups that engaged in attacks during 1970 to 2016. EDTG is linked to terrorist groups and attacks given in the Global Terrorism Database. Terrorist groups’ variables in EDTG include ideology, main goals, start date, duration, base country, attack diversity, peak size, alternative endings (if relevant), and others.
+
 Datas about Happiness come from the **World Happiness Report**, a landmark survey of the state of global happiness that ranks 156 countries by how happy their citizens perceive themselves to be. 
+
 Finaly we used the Fragile States Index (FSI) produced by The **Fund for Peace (FFP)**, which is a critical tool in highlighting not only the normal pressures that all states experience, but also in identifying when those pressures are outweighing a states’ capacity to manage those pressures.
 
 ## Our data story
@@ -52,6 +55,9 @@ We all worked on most tasks, except those specifically noted below. We worked se
 The tasks that were handled individually were handled as follows:
 
 Alex: Handled the webapp visual aspects.
+
 Antoni: Builded the network graphs.
+
 Charles: Took care of the political context part.
+
 Hugo: Analysed the evolution of terrorism through time.
