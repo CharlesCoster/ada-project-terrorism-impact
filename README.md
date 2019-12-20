@@ -35,7 +35,7 @@ Through this work, we hope to :
     - Graph that links the terrorist groups and the targeted countries
     - Predictive model
 - **Mini Quiz : Word Cloud**
-        - Importance of context
+    - Importance of context
 
 ## Dataset
 In this project, we used data from many sources. 
